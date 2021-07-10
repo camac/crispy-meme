@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.camac.crispymeme.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.camac.crispymeme.MyBundle
 
 class MyApplicationService {
 
