@@ -33,6 +33,7 @@ To keep everything working, do not remove `<!-- ... -->` sections.
   Download the [latest release](https://github.com/camac/crispy-meme/releases/latest) and install it manually using
   <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
 
+create a develop branch
 
 ---
 Plugin based on the [IntelliJ Platform Plugin Template][template].
